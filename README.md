@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{Victor}!</strong>
+## 💜 Olá, meu nome é <strong>Victor!</strong>
 
 > Sou aluno de Ciência da Computação da Universidade Federal do Pará. Tenho interesse pela área de back-end, mais especificamente na área de segurança da tecnologia
 ----
